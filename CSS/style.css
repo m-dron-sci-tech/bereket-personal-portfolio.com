@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=poppins:wght@200;300;400;500;600;700&display=swap');
 :root
 {
-	--bg-black-900:;
 	--bg-black-100:#fdf9ff;
 	--bg-black-50:#e8dfec;
 	--text-black-900:#302e4d;
@@ -19,6 +18,7 @@ body.dark
 	--text-black-900: #ffffff;
 	--text-black-700: #e9e9e9; 
 }
+
 body
 {
 	line-height: 1.5;
@@ -149,7 +149,6 @@ ul
 }
 .row
 {
-	display: flex:
 	flex-wrap: wrap;
 	margin-left: -15px;
 	margin-right: -15px;
@@ -657,7 +656,6 @@ h3.my-profession
 .about .about-content .timeline .circle-dot
 {
 	position: absolute;
-	left: ;
 	top: 0;
 	height: 15px;
 	width: 15px;
@@ -701,7 +699,7 @@ h3.my-profession
 .service .containner
 {
 	padding-bottom: 40px;
-	margin-top: -70px;
+	margin-top: 200px;
 }
 
 .service .service-item-1st
@@ -813,7 +811,7 @@ h3.my-profession
 .portfolio .container
 {
 	padding-bottom: 400px;
-	margin-top: -600px;
+	margin-top: -750px;
 }
 
 .portfolio .section-title
